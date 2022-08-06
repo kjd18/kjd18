@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kjd18
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning pentesting.
-- 💞️ I’m looking to collaborate on C/C++ projects.
-- 📫 How to reach me ...
 
 <!---
 kjd18/kjd18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
